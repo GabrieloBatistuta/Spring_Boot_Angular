@@ -85,7 +85,7 @@ public class Course {
     }
 
     public Date getUpdatedAt() {
-        return (updatedAt);
+        return updatedAt;
     }
 
     public void setUpdatedAt(Date updatedAt) {
